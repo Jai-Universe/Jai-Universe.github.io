@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+.container {
+    display: grid;
+    height: 600px;
+    align-items: center;
+    color: white;
+    font-family: "Fraunces", serif;
+    font-style: bold;
+    font-weight: 600;
+    font-size: 50px;
+    justify-content: center;
+}
